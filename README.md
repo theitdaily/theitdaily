@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://t.me/id65536"><img src="https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram"></a>
-  <a href="mailto:encrypt@internet.ru"><img src="https://img.shields.io/badge/encrypt@internet.ru-273254?style=for-the-badge&logo=GMail"></a>
+  <a href="mailto:theitdaily@gmail.com"><img src="https://img.shields.io/badge/theitdaily@gmail.com-273254?style=for-the-badge&logo=GMail"></a>
 </p>
 <h1> </h1>
 
