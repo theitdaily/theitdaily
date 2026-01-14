@@ -79,7 +79,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 <h1> </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheKompreso&color=green">
+  <img src="https://komarev.com/ghpvc/?username=theitdaily&color=green" title="Start date: 14-Jan-26">
 </p>
 
 <!----
