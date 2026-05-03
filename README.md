@@ -1,5 +1,7 @@
-<h1 align="center"> Привет, Мир! Я Михаил✌️ </h1>
-Я программист-разработчик, мой основной интерес и моя цель - совершенствовать навыки, глубже изучать языки и осваивать мощные решения других разработчиков для создания и поддержки крутых продуктов - будем работать и расти вместе!
+<h1 align="center"> Hello, World! I'm Mikhail ✌️ </h1>
+
+Full-Stack Web Developer with 5+ years of experience building web applications and business systems.  
+Specialized in backend development (PHP, Laravel, MySQL), designing scalable architectures, optimizing performance, and delivering end-to-end solutions.
 
 ### 
 
@@ -12,69 +14,68 @@
 ### 🌏 Web Development
 <details>
 <br>
-  
-Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
-- 2024г. Перевод сайтов на Laravel:
-<br>\- [lnk-to.ru](https://lnk-to.ru) - <b>[исходный код](https://github.com/thekompreso/lnk-to.ru)</b>. Создана система динамичных URL (для создания своих страниц с уникальным URL и с собственным доменом - например https://mickrize.ru), система взаимосвязей моделей для быстрых переходов между артистами и их релизами, в том числе если артистов на релизе несколько (исходный код на GitHub).
-<br>\- [survival-rp.ru](https://survivalrp.ru) - Реализована маршрутизация, авторизация и двухэтапная регистрация, взаимодействие с платёжной системой ЮMoney, API. От старой версии сайта (самописный движок) остались только данные из базы и дизайн.
-- 2024г. Разработка сайта с открытым кодом для реализации вышеперечисленного стека: [gamespotlight.site](https://gamespotlight.site) - <b>[исходный код](https://github.com/thekompreso/laravel-site)</b>.
-<br></br>
 
-Стек PHP, html+css, MySQL, Composer:
-- 2023г. Доработка сайта [survivalrp.ru](https://survivalrp.ru): Внедрение сервиса оплаты (QIWI), интеграция со сторонними сервисами.
-- 2023г. Разработка собственных мини-библиотек: <b>[Шаблон построения сайта](https://github.com/TheKompreso/blank-website-template), [Система управления ссылками](https://github.com/TheKompreso/url-database-engine), [Антибрутфорс](https://github.com/TheKompreso/brute-force-protection), [Управление правами пользователей](https://github.com/TheKompreso/simple-permission-engine), [Session manager](https://github.com/TheKompreso/session-manager)</b>.
-- 2021г. Разработка API сервиса для авторизации на сторонних ресурсах и разработка сервиса для синхронизации и облачного хранения данных (база данных MySQL). 
-- 2021г. Разработка интернет магазина [ttli.ru](https://ttli.ru) - сделан с нуля, личный кабинет администратора для добавления данных о товаре, авторизация через сторонний API.
-- 2020г. Сайт-визитка для инди-студии [twentypoundbird.com](https://twentypoundbird.com) - мультиязычность, загрузка страниц из БД (на нескольких языках).
-- 2020г. Сайт для проекта samp [survival-rp.ru](https://survivalrp.ru) - оформление страниц, route через БД, связь данных сайта с базой данных игрового сервера.
-- 2019г. Сайт для мультиссылок с личным кабинетом пользователя для редактирования ссылок и просмотра статистики посещения [lnk-to.ru](https://lnk-to.ru) - <b>[исходный код](https://github.com/thekompreso/old-lnk-to.ru)</b> - загрузка страниц из БД, личный кабинет для создания и редактирования ссылок.
+**Core stack:** PHP, Laravel, REST APIs, MySQL, HTML/CSS, JavaScript  
 
+- Built and maintained web applications and backend systems with focus on scalability and performance  
+- Designed REST APIs, authentication systems, and dynamic routing logic for production environments  
+- Developed multi-tenant systems and RBAC-based access control solutions  
+- Improved system performance through caching, SQL optimization, and architecture redesign  
 
-Прочие репозитории:
-- <b>[HTML Шаблоны](https://github.com/TheKompreso/html-page-templates)</b> - простые шаблоны веб-страниц. Просто html + css (возможно +js) код на 50-100 строчек!
+**Selected projects:**
 
-#### 🌟 Языки программирования и инструменты:
- <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="36" height="36" alt="PHPStorm" /></a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="36" height="36" alt="laravel" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
- <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
-  <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
+- [lnk-to.ru](https://lnk-to.ru) - <b>[source code](https://github.com/thekompreso/lnk-to.ru)</b>  
+  → Built dynamic URL system with custom domains and flexible many-to-many relationships between entities  
+
+- [survival-rp.ru](https://survivalrp.ru)  
+  → Implemented routing, authentication, two-step registration, and payment integration (YooMoney, QIWI)  
+  → Migrated project from legacy engine, preserving database and improving architecture  
+
+- [gamespotlight.site](https://gamespotlight.site) - <b>[source code](https://github.com/thekompreso/laravel-site)</b>  
+  → Developed open-source Laravel-based platform demonstrating full-stack architecture  
+
+**Other experience:**
+
+- Built reusable backend modules: RBAC, anti-bruteforce protection, session management, link systems  
+- Developed API services for authentication, data synchronization, and cloud storage  
+- Delivered full-cycle development: from requirements to deployment and production support  
+
+#### 🌟 Technologies:
+ <a href="https://www.php.net/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="36" height="36" /></a>
+ <a href="https://laravel.com" target="_blank"><img src="https://cdn.simpleicons.org/laravel" width="36" height="36" /></a>
+ <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
+ <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a>
+ <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
 
 </details>
+
 <h1> </h1>
 
 ### 🔨 C#, Unity
 <details>
 <br>
-  
-- 2024г. <b>[Big Tic Tie Toe](https://github.com/TheKompreso/BigTicTacToe)</b> (Большие крестики нолики). Хорошо продуманная логика кода позволяет легко расширять функционал и добавлять новые игровые режимы, не создавая код с нуля. В игре есть несколько игровых режимов, возможность пользовательского варианта игры, игра с ИИ.
-- 2023-2024г. Dread Mine (в разработке) - Roguelite 3D шутер от первого лица. Игрок попадает в вечно-меняющийся мир, где ему предстоит сражаться с монстрами. О моей работе:
-<br>\- полная интеграция с Steam (достижения, инвентарь, игровые статусы, поддержка workshop)
-<br>\- генерируемый мир
-<br>\- система предметов и ресурсов (инвентарь, хранилища предметов, верстак)
-<br>\- дерево технологий и контроллер сценариев (в будущем для пользовательских сценариев)
-<br>\- сохранение и загрузка игрового мира в любом месте (не нужны контрольные точки)
-- 2023г. <b>[Дипломный проект](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work)</b> - симулятор управляемого подводного аппарата с компьютерным зрением (библиотека OpenCV, C++).
-- 2020г. Игра 'Кубические гонки' - [https://www.youtube.com/watch?v=jp_1i9IaQ9s](https://www.youtube.com/watch?v=jp_1i9IaQ9s). Создавалась в команде из 2х человек. Я реализовал следующие компоненты:
-<br>\- Игровые режимы.
-<br>\- Серверная часть (была выгрузка данных в базу данных SQL, синхронизация аккаунта, список лучших игроков).
-<br>\- UI (меню, настройки, связь с серверной частью).
-<br>\- API на сервере для загрузки и выгрузки данных.
-- 2020г. Совместная <b>[курсовая работа](https://github.com/twentypoundbird/SMTU_2_COURSE/blob/master/Николенко%20Курсовая%20работа%20по%20ООП.pdf)</b>, сделанная в команде из 3 человек.
-#### 🌟 Языки программирования и инструменты:
- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/brand-icons/brands/blob/master/icons/color/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/logo-steamworks.svg" alt="steamworks" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
-  <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
-</details><p>
+
+- [Big Tic Tac Toe](https://github.com/TheKompreso/BigTicTacToe)  
+  → Designed flexible game architecture supporting multiple game modes and easy extensibility  
+
+- **Dread Mine**  
+  → Implemented procedural world generation, inventory systems, and save/load mechanics  
+  → Integrated Steam features (achievements, inventory, workshop support)  
+
+- [Graduation Project](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work)  
+  → Built underwater vehicle simulator with computer vision (OpenCV, C++)  
+
+- Multiplayer racing game (team project)  
+  → Developed backend integration, API, and UI взаимодействие с сервером  
+
+#### 🌟 Technologies:
+ <a href="https://unity.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="36" height="36" /></a>
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" /></a>
+ <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
+ <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
+
+</details>
 
 <h1> </h1>
 
