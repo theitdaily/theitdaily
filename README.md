@@ -51,7 +51,7 @@ Designed and developed a multi-tenant HRM platform from scratch (~2000 users) wi
   → Implemented procedural world, inventory system, and save/load mechanics  
   → Integrated Steam features (achievements, inventory, workshop)  
 
-- <b>[Graduation Project](https://github.com/TheITDaily/UUV-simulator-Graduation-Qualification-Work)</b>  
+- <b>[Graduation Project](https://github.com/TheITDaily/SMTU-UUV-simulator-Graduation-Qualification-Work)</b>  
   → Built simulator with computer vision (OpenCV, C++)  
 
 - Multiplayer racing game (team project)  
