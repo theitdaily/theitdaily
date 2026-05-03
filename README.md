@@ -47,7 +47,7 @@ Designed and developed a multi-tenant HRM platform from scratch (~2000 users) wi
 - <b>[Big Tic Tac Toe](https://github.com/TheITDaily/BigTicTacToe)</b>  
   → Designed flexible game architecture supporting multiple modes and extensibility  
 
-- Dread Mine
+- Dread Mine  
   → Implemented procedural world, inventory system, and save/load mechanics  
   → Integrated Steam features (achievements, inventory, workshop)  
 
