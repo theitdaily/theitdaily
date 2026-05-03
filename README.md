@@ -1,9 +1,11 @@
 <h1 align="center"> Hello, World! I'm Mikhail ✌️ </h1>
 
 Full-Stack Web Developer with 5+ years of experience building web applications and business systems.  
-Specialized in backend development (PHP, Laravel, MySQL), designing scalable architectures, optimizing performance, and delivering end-to-end solutions.
+Specialized in backend development using PHP (Laravel) and MySQL, with hands-on experience in REST APIs, database design, and scalable system architecture. Comfortable contributing across the stack when needed, including frontend tasks.
 
-### 
+Designed and developed a multi-tenant HRM platform from scratch (~2000 users) with complex RBAC, integrations, and automated workflows. Reduced critical response time from seconds to ~10 ms by identifying and resolving a performance bottleneck through caching, SQL optimization, and architectural improvements.
+
+###
 
 <p align="center">
   <a href="https://t.me/id65536"><img src="https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram"></a>
@@ -17,36 +19,22 @@ Specialized in backend development (PHP, Laravel, MySQL), designing scalable arc
 
 **Core stack:** PHP, Laravel, REST APIs, MySQL, HTML/CSS, JavaScript  
 
-- Built and maintained web applications and backend systems with focus on scalability and performance  
-- Designed REST APIs, authentication systems, and dynamic routing logic for production environments  
-- Developed multi-tenant systems and RBAC-based access control solutions  
-- Improved system performance through caching, SQL optimization, and architecture redesign  
-
-**Selected projects:**
-
-- [lnk-to.ru](https://lnk-to.ru) - <b>[source code](https://github.com/thekompreso/lnk-to.ru)</b>  
-  → Built dynamic URL system with custom domains and flexible many-to-many relationships between entities  
-
-- [survival-rp.ru](https://survivalrp.ru)  
-  → Implemented routing, authentication, two-step registration, and payment integration (YooMoney, QIWI)  
-  → Migrated project from legacy engine, preserving database and improving architecture  
-
-- [gamespotlight.site](https://gamespotlight.site) - <b>[source code](https://github.com/thekompreso/laravel-site)</b>  
-  → Developed open-source Laravel-based platform demonstrating full-stack architecture  
-
-**Other experience:**
-
-- Built reusable backend modules: RBAC, anti-bruteforce protection, session management, link systems  
-- Developed API services for authentication, data synchronization, and cloud storage  
-- Delivered full-cycle development: from requirements to deployment and production support  
+- Design and build scalable backend systems and web applications (Laravel, MySQL)  
+- Developed a multi-tenant HRM platform (~2000 users) with RBAC and automated workflows  
+- Reduced permission check latency from 2s to ~10ms (~200×) by resolving a critical performance bottleneck  
+- Designed REST APIs and asynchronous processing (Laravel Jobs) for scalable background execution  
+- Integrated external services (APIs, 1C, Dadata) and implemented Kafka-based event system  
+- Applied database optimization, caching strategies, and architecture improvements  
 
 #### 🌟 Technologies:
- <a href="https://www.php.net/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="36" height="36" /></a>
- <a href="https://laravel.com" target="_blank"><img src="https://cdn.simpleicons.org/laravel" width="36" height="36" /></a>
- <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
- <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a>
- <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
+<p>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="36"></a>
+  <a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" height="36"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="36"></a>
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" height="36"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" height="36"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36"></a>
+</p>
 
 </details>
 
@@ -56,24 +44,26 @@ Specialized in backend development (PHP, Laravel, MySQL), designing scalable arc
 <details>
 <br>
 
-- [Big Tic Tac Toe](https://github.com/TheKompreso/BigTicTacToe)  
-  → Designed flexible game architecture supporting multiple game modes and easy extensibility  
+- <b>[Big Tic Tac Toe](https://github.com/TheKompreso/BigTicTacToe)</b>  
+  → Designed flexible game architecture supporting multiple modes and extensibility  
 
-- **Dread Mine**  
-  → Implemented procedural world generation, inventory systems, and save/load mechanics  
-  → Integrated Steam features (achievements, inventory, workshop support)  
+- Dread Mine (in development)  
+  → Implemented procedural world, inventory system, and save/load mechanics  
+  → Integrated Steam features (achievements, inventory, workshop)  
 
-- [Graduation Project](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work)  
-  → Built underwater vehicle simulator with computer vision (OpenCV, C++)  
+- <b>[Graduation Project](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work)</b>  
+  → Built simulator with computer vision (OpenCV, C++)  
 
 - Multiplayer racing game (team project)  
-  → Developed backend integration, API, and UI взаимодействие с сервером  
+  → Developed backend integration, API, and UI interaction with server  
 
 #### 🌟 Technologies:
- <a href="https://unity.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="36" height="36" /></a>
- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" /></a>
- <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
- <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
+<p>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/"><img src="https://skillicons.dev/icons?i=cpp" height="36"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36"></a>
+</p>
 
 </details>
 
